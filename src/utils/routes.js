@@ -1,3 +1,4 @@
-exports const ROUTES = {
-    HOME: '/'
+export const ROUTES = {
+    HOME: '/',
+    CART: '/cart'
 }
